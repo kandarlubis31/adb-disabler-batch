@@ -65,3 +65,11 @@ adb-disabler/
 ├── Jalankan.bat          # File eksekusi utama
 ├── SpaceManager.ps1      # Source script PowerShell
 └── README.md             # Dokumentasi ini
+
+---
+
+## English
+
+**ADB Disabler (Space Manager v2.0)** is a PowerShell script that disables background apps on Android through ADB while you play a game, freeing RAM and CPU for the game itself.
+
+This version is portable: the ADB binary ships inside the folder, so there is no manual ADB install and no environment variables to configure on Windows.
