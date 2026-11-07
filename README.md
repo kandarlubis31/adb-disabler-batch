@@ -13,14 +13,14 @@ Versi ini udah **Portable**. File eksekusi ADB udah dibundle langsung di dalem f
 ## Preview
 
 <div align="center">
-  <img width="48%" alt="Menu Utama" src="https://github.com/user-attachments/assets/684ba6f1-f84d-46e1-8f98-e7213d5ab5ee" />
-  <img width="48%" alt="Konfirmasi Disable" src="https://github.com/user-attachments/assets/92e0ff6e-3ecc-4ef9-81c8-ed166de1c1f9" />
-  <img width="48%" alt="Status" src="https://github.com/user-attachments/assets/dcd5540e-384a-4970-9e54-c6203a6f5b65" />
-  <img width="48%" alt="Sukses" src="https://github.com/user-attachments/assets/6a1075c2-55d7-47d9-bbe5-bfa87f2a39fd" />
+ <img width="48%" alt="Menu Utama" src="https://github.com/user-attachments/assets/684ba6f1-f84d-46e1-8f98-e7213d5ab5ee" />
+ <img width="48%" alt="Konfirmasi Disable" src="https://github.com/user-attachments/assets/92e0ff6e-3ecc-4ef9-81c8-ed166de1c1f9" />
+ <img width="48%" alt="Status" src="https://github.com/user-attachments/assets/dcd5540e-384a-4970-9e54-c6203a6f5b65" />
+ <img width="48%" alt="Sukses" src="https://github.com/user-attachments/assets/6a1075c2-55d7-47d9-bbe5-bfa87f2a39fd" />
 </div>
 <br>
 <div align="center">
-  <img width="40%" alt="App Drawer Kosong" src="https://github.com/user-attachments/assets/56079dd1-37ce-4923-9c47-89f19968a69f" />
+ <img width="40%" alt="App Drawer Kosong" src="https://github.com/user-attachments/assets/56079dd1-37ce-4923-9c47-89f19968a69f" />
 </div>
 
 ---
@@ -65,3 +65,11 @@ adb-disabler/
 ├── Jalankan.bat          # File eksekusi utama
 ├── SpaceManager.ps1      # Source script PowerShell
 └── README.md             # Dokumentasi ini
+
+---
+
+## English
+
+**ADB Disabler (Space Manager v2.0)** is a PowerShell script that disables background apps on Android through ADB while you play a game, freeing RAM and CPU for the game itself.
+
+This version is portable: the ADB binary ships inside the folder, so there is no manual ADB install and no environment variables to configure on Windows.
